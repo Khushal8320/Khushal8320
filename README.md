@@ -85,7 +85,7 @@ www.linkedin.com/in/khushal-patel-215b20343
 GitHub:  
 https://github.com/Khushal8320
 
-Dashhub:
+Dagshub:
 https://dagshub.com/patelkhushal222
 
 ---
