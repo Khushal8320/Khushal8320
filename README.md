@@ -47,7 +47,7 @@ Microsoft Azure | Azure AI Services | Azure Machine Learning | Azure Cognitive S
 Regression | Classification | NLP | Computer Vision | Feature Engineering | Model Evaluation
 
 ### Tools
-Git | GitHub | VS Code | Jupyter Notebook | Streamlit
+Git | GitHub | VS Code | Jupyter Notebook | Streamlit | Dagshub
 
 ---
 
