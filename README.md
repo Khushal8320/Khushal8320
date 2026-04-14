@@ -41,13 +41,13 @@ Pandas | NumPy | Scikit-learn | XGBoost | CatBoost | TensorFlow | PyTorch
 Power BI | Matplotlib | Seaborn | Plotly
 
 ### Cloud & AI Platforms
-Microsoft Azure | Azure AI Services | Azure Machine Learning | Azure Cognitive Services
+Microsoft Azure | Azure AI Services | Azure Machine Learning | Azure Cognitive Services |Azure Speech
 
 ### Machine Learning Techniques
 Regression | Classification | NLP | Computer Vision | Feature Engineering | Model Evaluation
 
 ### Tools
-Git | GitHub | VS Code | Jupyter Notebook | Streamlit | Dagshub
+Git | GitHub | VS Code | Jupyter Notebook | Streamlit | Dagshub |MLflow
 
 ---
 
